@@ -22,4 +22,6 @@ mov eax,1
 mov ebx,0
 int 0x80
 
+;ideas 
+;what happens when we put double word in one [esp]?
 
